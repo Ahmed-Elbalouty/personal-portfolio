@@ -70,9 +70,9 @@ let data = [
     desc: "This project is a product management website for CRUD operations using JavaScript. It stores product details in local storage, calculates the total price, and allows creating, searching, modifying, or deleting products.",
     github: {
       found: true,
-      url: "https://github.com/Ahmed-Elbalouty/movie-app-react.js",
+      url: "https://github.com/Ahmed-Elbalouty/CRUDS-operations-project-JS",
     },
-    liveDemo: "https://movie-app-reactjs-pi.vercel.app/",
+    liveDemo: "https://ahmed-elbalouty.github.io/CRUDS-operations-project-JS/",
   },
   {
     id: 7,
