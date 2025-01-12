@@ -9,7 +9,7 @@ function IntroSection() {
         <p>Software Developer Professionally connected with the web development industry,
           Well-organised person, problem solver, independent employee with high attention to detail. Interested in the entire frontend spectrum and working on ambitious projects with positive people.
         </p>
-        <a href="https://drive.google.com/file/d/1XNyUPeWU4x70j4ukluh45GGGuJlNeUL3/view?usp=sharing" className="special-btn" target="_blank">Check Out My Resume</a>
+        <a href="https://drive.google.com/drive/folders/1X-jOwoDaKRPZouttphF1_s5kj82Z-i-9?usp=sharing" className="special-btn" target="_blank">Check Out My Resume</a>
       </div>
     </ div >
   );
